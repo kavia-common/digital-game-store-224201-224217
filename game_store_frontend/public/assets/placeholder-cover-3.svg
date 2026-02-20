@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="900" viewBox="0 0 640 900">
+  <defs>
+    <radialGradient id="r" cx="40%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0.05"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="900" fill="#0e1633"/>
+  <rect x="24" y="24" width="592" height="852" rx="24" fill="url(#r)"/>
+  <text x="50%" y="46%" font-family="ui-sans-serif, system-ui" font-size="40" fill="#e8f0ff" text-anchor="middle" font-weight="800">ASTRO ARCADE</text>
+  <text x="50%" y="54%" font-family="ui-sans-serif, system-ui" font-size="20" fill="#a9b9d6" text-anchor="middle">Mock Cover Art</text>
+</svg>
